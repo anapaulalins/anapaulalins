@@ -5,7 +5,7 @@ My name is Ana and i'm a software developer.
 <h2>Technologies & Tools</h2>
 
 <img src="https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=REACT"/>
-<img src="https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=NODE.JS"/>
+<img src="https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=NODE.JS"/>
 <img src="https://img.shields.io/static/v1?label=code&message=docker&color=blue&style=plastic&logo=DOCKER"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
