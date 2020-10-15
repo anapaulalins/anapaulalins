@@ -2,7 +2,7 @@
 
 My name is Ana and i'm a software developer. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=onedark)
 
 <!--
 **anapaulalins/anapaulalins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
