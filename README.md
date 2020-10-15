@@ -4,7 +4,7 @@ My name is Ana and i'm a software developer.
 
 <h2>Technologies & Tools</h2>
 
-[2]: https://www.linkedin.com/in/ana-lins-a769161b4/
+<img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
 
