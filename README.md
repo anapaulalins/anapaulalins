@@ -5,9 +5,10 @@ My name is Ana and i'm a software developer.
 <h2>⚒️Technologies & Tools</h2>
 
 ![1](https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=REACT)
-![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=NODE.JS)
+![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=node.js)
 ![3](https://img.shields.io/static/v1?label=tools&message=docker&color=blue&style=plastic&logo=docker)
 ![4](https://img.shields.io/static/v1?label=code&message=react-native&color=blueviolet&style=plastic&logo=REACT)
+![5](https://img.shields.io/static/v1?label=tools&message=react-native&color=blueviolet&style=plastic&logo=postgressql)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
 
