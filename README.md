@@ -8,7 +8,8 @@ My name is Ana and i'm a software developer.
 ![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=node.js)
 ![3](https://img.shields.io/static/v1?label=tools&message=docker&color=blue&style=plastic&logo=docker)
 ![4](https://img.shields.io/static/v1?label=code&message=react-native&color=blueviolet&style=plastic&logo=REACT)
-![5](https://img.shields.io/static/v1?label=tools&message=postgresSQL&color=336791&style=plastic&logo=postgresql)
+![1](https://img.shields.io/static/v1?label=tools&message=postgresSQL&color=336791&style=plastic&logo=postgresql)
+![2](https://img.shields.io/static/v1?label=code&message=typescript&color=007ACC&style=plastic&logo=typescript)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
 
