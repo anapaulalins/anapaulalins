@@ -2,7 +2,7 @@
 
 My name is Ana and i'm a software developer. 
 
-⚒️ <h2>Technologies & Tools</h2>
+<h2>⚒️ Technologies & Tools</h2>
 ![1](https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=REACT)
 ![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=NODE.JS)
 ![3](https://img.shields.io/static/v1?label=code&message=docker&color=blue&style=plastic&logo=DOCKER")
