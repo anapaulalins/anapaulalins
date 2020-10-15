@@ -4,10 +4,10 @@ My name is Ana and i'm a software developer.
 
 <h2>⚒️Technologies & Tools</h2>
 
-![1](https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=REACT)
-![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=node.js)
+![1](https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=react)
+![2](https://img.shields.io/static/v1?label=code&message=node.js&color=339933&style=plastic&logo=node-dot-js)
 ![3](https://img.shields.io/static/v1?label=tools&message=docker&color=blue&style=plastic&logo=docker)
-![4](https://img.shields.io/static/v1?label=code&message=react-native&color=blueviolet&style=plastic&logo=REACT)
+![4](https://img.shields.io/static/v1?label=code&message=react-native&color=blueviolet&style=plastic&logo=react)
 ![1](https://img.shields.io/static/v1?label=tools&message=postgresSQL&color=336791&style=plastic&logo=postgresql)
 ![2](https://img.shields.io/static/v1?label=code&message=typescript&color=007ACC&style=plastic&logo=typescript)
 ![3](https://img.shields.io/static/v1?label=code&message=javascript&color=F7DF1E&style=plastic&logo=javascript)
