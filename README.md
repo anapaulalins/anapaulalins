@@ -2,7 +2,9 @@
 
 My name is Ana and i'm a software developer. 
 
-<h1>Tools</h1>
+<h2>Technologies & Tools</h2>
+
+[2]: https://www.linkedin.com/in/ana-lins-a769161b4/
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
 
