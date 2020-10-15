@@ -7,7 +7,7 @@ My name is Ana and i'm a software developer.
 ![1](https://img.shields.io/static/v1?label=code&message=react&color=blueviolet&style=plastic&logo=REACT)
 ![2](https://img.shields.io/static/v1?label=code&message=node.js&color=brightgreen&style=plastic&logo=NODE.JS)
 ![3](https://img.shields.io/static/v1?label=code&message=docker&color=blue&style=plastic&logo=DOCKER")
-![4](https://img.shields.io/static/v1?label=code&message=react native&color=blueviolet&style=plastic&logo=REACT")
+![4](https://img.shields.io/static/v1?label=code&message=react-native&color=blueviolet&style=plastic&logo=REACT")
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
 
