@@ -12,8 +12,8 @@ My name is Ana and i'm a software developer.
 ![2](https://img.shields.io/static/v1?label=code&message=typescript&color=007ACC&style=plastic&logo=typescript)
 ![3](https://img.shields.io/static/v1?label=code&message=javascript&color=F7DF1E&style=plastic&logo=javascript)
 
-![1](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
-
+<!-- ![1](https://github-readme-stats.vercel.app/api?username=anapaulalins&show_icons=true&theme=dracula)
+ -->
 [![2](https://github-readme-stats.vercel.app/api/top-langs/?username=anapaulalins&theme=dracula&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anapaulalins/github-readme-stats)
 
 
